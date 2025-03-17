@@ -1,0 +1,12 @@
+EVCast has been updated. See changes below:
+
+Bugfixes:
+- Fixed a problem where the client icon would not show in the main Dashboard.
+- Fixed a visual defect where the news feed container was not correctly centred.
+- Fixed a backend defect causing the service to go down on occasion.
+  - Caused by a cloudflare connector issue
+
+Additions:
+- The default color is now customisable. Simply contact us on customise@corebitcomputers.shop to customise this section.
+- The default media is now customiseable. Simply contact us on customise@corebitcomputers.shop to customise this section.
+- Logos are now connected to your serial code.
