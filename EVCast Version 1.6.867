@@ -1,0 +1,7 @@
+EVCast has been updated. See changes below:
+
+Bugfixes:
+-Changed weather widget temporarily until a new one can be created as it was not sending data to client dashboard.
+
+Additions:
+-Added SSL Security. 
